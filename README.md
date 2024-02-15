@@ -32,6 +32,6 @@ Short description of Project 2.
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 - Twitter: [Your Twitter Handle](link-to-twitter)
-- Email: your.email@example.com
+- Email: wzein36@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat. Happy coding! 🚀
